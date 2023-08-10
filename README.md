@@ -4,7 +4,7 @@ Me chamo Ricardo Almeida Branco e sou professor de Pensamento Computacional no E
 
 Trabalho com estudantes do Ensino Fundamental e Ensino Médio.
 
-Já trabalhei com programação em VBA e em MQL5 fora das minhas atividades como professor, mas agora estou ensinando (e aprendendo mais) sobre o Scratch, javascript (ainda no site do P5JS) e html.
+Já trabalhei com programação em VBA e em MQL5 fora das minhas atividades como professor, mas agora estou ensinando (e aprendendo mais) sobre o Scratch, JavaScript (ainda no site do P5JS) e html.
 
 Utilizo este espaço para organizar e publicar alguns códigos que vou trabalhando enquanto professor de PC.
 
